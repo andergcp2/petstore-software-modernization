@@ -1,3 +1,7 @@
+# Original source code:
+
+https://github.com/agoncal/agoncal-application-petstore-ee7
+
 # Application - Petstore Java EE 7
 
 * *Author* : [Antonio Goncalves](http://www.antoniogoncalves.org)
